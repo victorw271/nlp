@@ -4,10 +4,12 @@
 
 ## Project Overview
 
-### [Assignment 1](assignment_1/Assignment_1.ipynb)
-- In Assignment 1, we tackle the fascinating task of carpet classification using Convolutional Neural Networks (CNNs). Dive into the world of image recognition as we train and evaluate deep learning models to identify different carpet patterns.
+### Component 1: Aircraft Data Analysis
+In Component 1, we delve into the world of aircraft data. Our journey begins with meticulous data annotation, where we carefully label and categorize data elements. With our annotated data in hand, we then proceed to develop a sophisticated model capable of extracting entities and their relations from this dataset.
 
-### [Assignment 2](assignment2/assignment_2_2AMM10_22-23.ipynb)
-- Assignment 2 is all about predicting trajectories with Graph Neural Networks (GNNs). Explore the realm of deep learning applied to graphs as we work on trajectory prediction, a critical task in autonomous systems and robotics.
+### Component 2: Nuclear Plant Data Analysis
+In Component 2, we broaden our scope by applying the model developed in Component 1 to a more technically complex dataset associated with nuclear plants. Here, our objective is to leverage our model to extract entities and relations from this specialized domain. This transfer of our model from one context to another provides a unique opportunity to assess its adaptability and effectiveness.
 
-These assignments offer a hands-on experience in the captivating field of Deep Learning, where we harness the power of neural networks to solve real-world challenges.
+### [Report](Report.pdf)
+
+
