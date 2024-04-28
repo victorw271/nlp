@@ -1,6 +1,6 @@
-<h1 align="center">Text Mining Project</h1>
+<h1 align="center"> NLP Project </h1>
 
-<p align="center">Welcome to the repository of Text Mining. In this project, we delve into the fascinating realm of text analysis and natural language processing.</p>
+<p align="center">Welcome to the repository of Natural Language Processing In this project, we delve into the fascinating realm of text analysis and natural language processing.</p>
 
 ## Project Overview
 
